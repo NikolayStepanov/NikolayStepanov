@@ -33,15 +33,7 @@ I enjoy optimizing code, working with databases, and automating workflows. I am 
 
 <h3 align="left">🛠 Skills & Technologies:</h3>
 
-<h4 align="left">Languages:</h4>
-<div align="left" style="display: flex; gap: 8px; align-items: center;">
-  <a href="https://golang.org" target="_blank" rel="noreferrer" title="Go" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer" title="C++" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
-</div>
+<h4 align="left">Languages:</h4><p align="left"><a href="https://golang.org" target="_blank" rel="noreferrer" title="Go"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/></a> <a href="https://isocpp.org/" target="_blank" rel="noreferrer" title="C++"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a></p>
 
 <h4 align="left">Databases:</h4>
 <p align="left">🐘 PostgreSQL  🍃 MongoDB  🗄️ SQLite</p>
