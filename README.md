@@ -41,6 +41,13 @@ I enjoy optimizing code, working with databases, and automating workflows. I am 
 <img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
 </a>
 
+<a href="https://golang.org" title="Go">
+<img alt="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="42">
+</a>
+<a href="https://isocpp.org/" title="C++">
+<img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="42">
+</a>
+
 <h4 align="left">Databases:</h4>
 <p align="left">🐘 PostgreSQL  🍃 MongoDB  🗄️ SQLite</p>
 
