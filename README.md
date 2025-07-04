@@ -64,11 +64,11 @@ I enjoy optimizing code, working with databases, and automating workflows. I am 
 <a href="https://grpc.io/" target="_blank" rel="noreferrer" title="gRPC">
     <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="gRPC" height="45" /></a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer" title="Apache Kafka">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21~bgwhite.svg" alt="Apache Kafka" height="40" /></a>
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21~bgwhite.svg" alt="Apache Kafka" width="80" height="40" /></a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer" title="Swagger / OpenAPI">
-    <img src="https://www.svgrepo.com/show/374111/swagger.svg" alt="Swagger" height="45" /></a>
+    <img src="https://www.svgrepo.com/show/374111/swagger.svg" alt="Swagger" width="40" height="40" /></a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="Postman">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/postman.svg" alt="Postman" height="40" /></a>
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/postman.svg" alt="Postman" width="100" height="40" /></a>
 </p>
 
 <h4 align="left">UI & Frameworks:</h4>
@@ -76,25 +76,25 @@ I enjoy optimizing code, working with databases, and automating workflows. I am 
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40" /></a>
   <a href="https://doc.qt.io/qt-6/qmlapplications.html" target="_blank" rel="noreferrer" title="QML">
-    <img src="https://www.reachtech.com/wp-content/uploads/2022/07/QML.png" alt="QML" height="40" /></a>
+    <img src="https://www.reachtech.com/wp-content/uploads/2022/07/QML.png" alt="QML" width="60" height="40" /></a>
 </p>
 
 <h4 align="left">Monitoring & Tracing:</h4>
 <p align="left">
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer" title="Prometheus">
-    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="Prometheus" height="40" /></a>
+    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="Prometheus" width="80" height="40" /></a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer" title="Grafana">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" height="40" /></a>
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40" /></a>
   <a href="https://opentelemetry.io/" target="_blank" rel="noreferrer" title="OpenTelemetry" >
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/opentelemetry.svg" alt="OpenTelemetry" height="40" /></a>
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/opentelemetry.svg" alt="OpenTelemetry" width="100" height="40" /></a>
 </p>
 
 <h4 align="left">Environment & OS:</h4>
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" /></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></a>
   <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer" title="Windows 11">
-    <img src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/f974956eb7ad6bfa60e99a9c6518c84e575bbae2/assets/windows11.svg" alt="Windows 11" height="42" /></a>
+    <img src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/f974956eb7ad6bfa60e99a9c6518c84e575bbae2/assets/windows11.svg" alt="Windows 11" width="40" height="40" /></a>
   <img src="https://img.shields.io/badge/🧩_Microservices-8e44ad?style=for-the-badge" alt="Microservices" />
 </p>
 
