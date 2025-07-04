@@ -100,6 +100,6 @@ I enjoy optimizing code, working with databases, and automating workflows. I am 
 
 <h3 align="left">🔥 My GitHub Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikolayStepanov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NikolayStepanov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NikolayStepanov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&order=1" alt="stats graph"  height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NikolayStepanov&locale=en&hide_title=false&layout=compact&langs_count=6&theme=monokai&hide_border=false&order=2" alt="languages graph" height="150"/>
 </div>
