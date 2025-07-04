@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Nikolay 👋</h1>
 
-<p align="left">Go backend developer with experience in C++ and Qt.</p>
+<p align="center"><strong>🚀 Go backend developer with experience in C++ and Qt.</strong></p>
 
 <hr>
 
