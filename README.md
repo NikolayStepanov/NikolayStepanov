@@ -6,8 +6,6 @@
 
 <p align="center"><strong>🚀 Go backend developer with experience in C++ and Qt.</strong></p>
 
-<hr>
-
 <p align="center">
   <a href="https://t.me/Nikolay_Stepanov" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" /></a>
@@ -23,7 +21,7 @@
 
 <br />
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="center">👩‍💻 About Me</h3>
 
 <p align="left">
 I started my professional journey as a C++ developer, gaining 3 years of experience working on complex software including VoIP and automotive HMI systems using C++ and Qt.<br><br>
@@ -33,16 +31,18 @@ I enjoy optimizing code, working with databases, and automating workflows. I am 
 
 <br />
 
-<h3 align="left">🛠 Skills & Technologies:</h3>
+<h3 align="center">🛠 Skills & Technologies:</h3>
 
-<h4 align="left">Languages:</h4>
+<h4 align="center">Languages:</h4>
+<p align="center">
 <a href="https://golang.org" title="Go" target="_blank" rel="noreferrer">
 <img alt="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50"></a>
 <a href="https://isocpp.org/" title="C++" target="_blank" rel="noreferrer">
 <img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"></a>
+</p>
 
-<h4 align="left">Databases:</h4>
-<p align="left">
+<h4 align="center">Databases:</h4>
+<p align="center">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -51,16 +51,16 @@ I enjoy optimizing code, working with databases, and automating workflows. I am 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" /></a>
 </p>
 
-<h4 align="left">Containerization & Orchestration:</h4>
-<p align="left">
+<h4 align="center">Containerization & Orchestration:</h4>
+<p align="center">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" /></a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" /></a>
 </p>
 
-<h4 align="left">Messaging Systems & APIs:</h4>
-<p align="left">
+<h4 align="center">Messaging Systems & APIs:</h4>
+<p align="center">
 <a href="https://grpc.io/" target="_blank" rel="noreferrer" title="gRPC">
     <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="gRPC" height="45" /></a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer" title="Apache Kafka">
@@ -71,16 +71,16 @@ I enjoy optimizing code, working with databases, and automating workflows. I am 
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/postman.svg" alt="Postman" width="100" height="40" /></a>
 </p>
 
-<h4 align="left">UI & Frameworks:</h4>
-<p align="left">
+<h4 align="center">UI & Frameworks:</h4>
+<p align="center">
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40" /></a>
   <a href="https://doc.qt.io/qt-6/qmlapplications.html" target="_blank" rel="noreferrer" title="QML">
     <img src="https://www.reachtech.com/wp-content/uploads/2022/07/QML.png" alt="QML" width="60" height="40" /></a>
 </p>
 
-<h4 align="left">Monitoring & Tracing:</h4>
-<p align="left">
+<h4 align="center">Monitoring & Tracing:</h4>
+<p align="center">
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer" title="Prometheus">
     <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="Prometheus" width="80" height="40" /></a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer" title="Grafana">
@@ -89,8 +89,8 @@ I enjoy optimizing code, working with databases, and automating workflows. I am 
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/opentelemetry.svg" alt="OpenTelemetry" width="100" height="40" /></a>
 </p>
 
-<h4 align="left">Environment & OS:</h4>
-<p align="left">
+<h4 align="center">Environment & OS:</h4>
+<p align="center">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></a>
   <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer" title="Windows 11">
@@ -98,7 +98,7 @@ I enjoy optimizing code, working with databases, and automating workflows. I am 
   <img src="https://img.shields.io/badge/🧩_Microservices-8e44ad?style=for-the-badge" alt="Microservices" />
 </p>
 
-<h3 align="left">🔥 My GitHub Stats:</h3>
+<h3 align="center">🔥 My GitHub Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NikolayStepanov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&order=1" width="260" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NikolayStepanov&locale=en&hide_title=false&layout=compact&langs_count=6&theme=monokai&hide_border=false&order=2" width="200" height="150" alt="languages graph" />
