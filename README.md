@@ -24,9 +24,9 @@
 <h3 align="center">👩‍💻 About Me</h3>
 
 <p align="left">
-I started my professional journey as a C++ developer, gaining 3 years of experience working on complex software including VoIP and automotive HMI systems using C++ and Qt.<br><br>
-For the last 1+ year, I have specialized in Go backend development, focusing on building scalable, high-performance backend systems and APIs.<br><br>
-I enjoy optimizing code, working with databases, and automating workflows. I am passionate about writing clean, maintainable code and constantly improving my skills.
+I started my professional journey as a C++ developer, working on complex software including VoIP and automotive HMI systems with C++ and Qt.<br><br>
+More recently, I have specialized in Go backend development, focusing on building scalable, high-performance backend systems and APIs.<br><br>
+I enjoy optimizing code, working with databases, and automating workflows. I am passionate about writing clean, maintainable code and continuously improving my skills.
 </p>
 
 <br />
