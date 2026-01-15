@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Nikolay 👋</h1>
 
-<p align="center"><strong>🚀 Go backend developer with experience in C++ and Qt.</strong></p>
+<p align="center"><strong>🚀 Software Engineer (Go)</strong></p>
 
 <p align="center">
   <a href="https://t.me/Nikolay_Stepanov" target="_blank">
