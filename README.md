@@ -4,101 +4,65 @@
 
 <h1 align="center">Hi, I'm Nikolay 👋</h1>
 
-<p align="center"><strong>🚀 Software Engineer (Go)</strong></p>
+<p align="center"><strong>Backend Engineer (Go)</strong></p>
 
 <p align="center">
   <a href="https://t.me/Nikolay_Stepanov" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" /></a>
+    <img src="assets/badge-telegram.svg" height="25" alt="telegram logo" /></a>
   <a href="https://www.linkedin.com/in/nikolay-stepanov" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
+    <img src="assets/badge-linkedin.svg" height="25" alt="linkedin logo" /></a>
   <a href="https://career.habr.com/nikolay_stepanov" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Habr&logo=habr&label=&color=3F8EAA&logoColor=white&style=for-the-badge" height="25" alt="Habr Career" /></a>
-  <a href="https://vk.com/stepanov_nikolay" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=VK&logo=vk&label=&color=4680C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vk logo" /></a>
+    <img src="assets/badge-habr.svg" height="25" alt="Habr Career" /></a>
   <a href="mailto:stepnjob@yandex.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" /></a>
+    <img src="assets/badge-email.svg" height="25" alt="email logo" /></a>
 </p>
 
 <br />
 
-<h3 align="center">👩‍💻 About Me</h3>
+<h3 align="center">👨‍💻 About Me</h3>
 
 <p align="left">
-I started my professional journey as a C++ developer, working on complex software including VoIP and automotive HMI systems with C++ and Qt.<br><br>
-More recently, I have specialized in Go backend development, focusing on building scalable, high-performance backend systems and APIs.<br><br>
-I enjoy optimizing code, working with databases, and automating workflows. I am passionate about writing clean, maintainable code and continuously improving my skills.
+Backend engineer working in Go. I build APIs and services with PostgreSQL, Kafka and gRPC, and I like making them fast and observable.<br><br>
+Before Go I worked in C++ and Qt, building VoIP software and automotive HMI systems. That background still shapes how I think about concurrency, memory and latency.
 </p>
 
 <br />
 
-<h3 align="center">🛠 Skills & Technologies:</h3>
+<h3 align="center">🛠 Tech Stack</h3>
 
-<h4 align="center">Languages:</h4>
 <p align="center">
-<a href="https://golang.org" title="Go" target="_blank" rel="noreferrer">
-<img alt="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50"></a>
-<a href="https://isocpp.org/" title="C++" target="_blank" rel="noreferrer">
-<img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"></a>
-</p>
-
-<h4 align="center">Databases:</h4>
-<p align="center">
+  <a href="https://golang.org" title="Go" target="_blank" rel="noreferrer">
+    <img alt="Go" src="assets/go.svg" width="50"></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" /></a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" /></a>
-</p>
-
-<h4 align="center">Containerization & Orchestration:</h4>
-<p align="center">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" /></a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" /></a>
-</p>
-
-<h4 align="center">Messaging Systems & APIs:</h4>
-<p align="center">
-<a href="https://grpc.io/" target="_blank" rel="noreferrer" title="gRPC">
-    <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="gRPC" height="45" /></a>
+    <img src="assets/postgresql.svg" alt="postgresql" width="50" /></a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer" title="Apache Kafka">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21~bgwhite.svg" alt="Apache Kafka" width="80" height="40" /></a>
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer" title="Swagger / OpenAPI">
-    <img src="https://www.svgrepo.com/show/374111/swagger.svg" alt="Swagger" width="40" height="40" /></a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="Postman">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/postman.svg" alt="Postman" width="100" height="40" /></a>
-</p>
-
-<h4 align="center">UI & Frameworks:</h4>
-<p align="center">
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40" /></a>
-  <a href="https://doc.qt.io/qt-6/qmlapplications.html" target="_blank" rel="noreferrer" title="QML">
-    <img src="https://www.reachtech.com/wp-content/uploads/2022/07/QML.png" alt="QML" width="60" height="40" /></a>
-</p>
-
-<h4 align="center">Monitoring & Tracing:</h4>
-<p align="center">
+    <img src="assets/kafka.svg" alt="Apache Kafka" width="80" height="40" /></a>
+  <a href="https://grpc.io/" target="_blank" rel="noreferrer" title="gRPC">
+    <img src="assets/grpc.svg" alt="gRPC" height="45" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="assets/docker.svg" alt="docker" width="50" /></a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="assets/kubernetes.svg" alt="kubernetes" width="50" /></a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer" title="Prometheus">
-    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="Prometheus" width="80" height="40" /></a>
+    <img src="assets/prometheus.svg" alt="Prometheus" width="80" height="40" /></a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer" title="Grafana">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40" /></a>
+    <img src="assets/grafana.svg" alt="Grafana" width="40" height="40" /></a>
   <a href="https://opentelemetry.io/" target="_blank" rel="noreferrer" title="OpenTelemetry" >
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/opentelemetry.svg" alt="OpenTelemetry" width="100" height="40" /></a>
+    <img src="assets/opentelemetry.svg" alt="OpenTelemetry" width="100" height="40" /></a>
 </p>
 
-<h4 align="center">Environment & OS:</h4>
+<p align="center"><em>Previously worked with</em></p>
+
 <p align="center">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></a>
-  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer" title="Windows 11">
-    <img src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/f974956eb7ad6bfa60e99a9c6518c84e575bbae2/assets/windows11.svg" alt="Windows 11" width="40" height="40" /></a>
-  <img src="https://img.shields.io/badge/🧩_Microservices-8e44ad?style=for-the-badge" alt="Microservices" />
+  <a href="https://isocpp.org/" title="C++" target="_blank" rel="noreferrer">
+    <img alt="C++" src="assets/cplusplus.svg" width="50"></a>
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
+    <img src="assets/qt.svg" alt="qt" width="40" height="40" /></a>
+  <a href="https://doc.qt.io/qt-6/qmlapplications.html" target="_blank" rel="noreferrer" title="QML">
+    <img src="assets/qml.svg" alt="QML" width="60" height="40" /></a>
 </p>
 
-<h3 align="center">🔥 My GitHub Stats:</h3>
+<h3 align="center">🔥 My GitHub Stats</h3>
 <div align="center">
     <img src="https://raw.githubusercontent.com/NikolayStepanov/NikolayStepanov/main/github-metrics.svg" />
 </div>
